@@ -3,3 +3,5 @@ pandas>=2.2,<4
 scipy>=1.12,<2
 yfinance>=0.2.54,<2
 pytest>=8,<10
+streamlit
+plotly
